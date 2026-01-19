@@ -1,6 +1,7 @@
 import MainHeader from "./assets/MainHeader"
-import Main from "./assets/Main"
+import MainNero from "./assets/MainNero"
 import Footer from "./assets/Footer"
+import Azzurro from "./assets/Azzurro"
 function App() {
 
 
@@ -8,8 +9,9 @@ function App() {
     <>
       <h1>INIZIAMOINIZIAMO</h1>
       <MainHeader />
-      <Main />
+      <MainNero />
       <Footer />
+      <Azzurro />
     </>
   )
 }

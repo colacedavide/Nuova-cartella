@@ -24,3 +24,49 @@
     justify-content: flex-end;
 
 }
+
+
+/* MAIN */
+
+main {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+/* AZZURRO */
+
+.colorezz {
+    background-color: blue;
+}
+
+.wrappare {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.img-azz {
+    width: ;
+
+}
+
+.grande {
+    width: 50px;
+}
+
+.item {
+    display: flex;
+    padding: 40px 0;
+    align-items: center;
+}
+
+.item-azz {
+    margin-left: 10px;
+    color: white;
+    font-size: 13px;
+}
